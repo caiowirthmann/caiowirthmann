@@ -10,4 +10,14 @@ headers = {
 
 response = requests.request("GET", url, headers=headers)
 
-print (response.content)
+# saving the response on a .txt file
+
+file_path_save = "C:\caio\teste_resposta_request" # retorna com erro PermissionError: [Errno 13] Permission denied: 'C:\\caio' --> checar o porque
+
+f = open(file_path_save, "w")
+
+f.write(response.text.encode("utf-8"))
+f.close()
+
+
+#print (response.content)
