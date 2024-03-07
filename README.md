@@ -3,3 +3,9 @@
 
 
 
+## Ideias de projetos e estudos
+- [ ] Planilha de atualização de estoque/preços dos anuncios da conta do mercado livre com integração por API em python
+  - [ ] Planilha faz a consulta dos anuncios da sua conta e armazena os dados em uma guia na planilha, onde é possível informar em uma coluna especifica a alteração de estoque e/ou preço 
+  - [ ] Ribbon customizada com a função de chamar a atualização, puxar lista de anuncios
+
+- [ ] 
