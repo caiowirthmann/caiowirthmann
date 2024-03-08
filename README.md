@@ -8,4 +8,7 @@
   - [ ] Planilha faz a consulta dos anuncios da sua conta e armazena os dados em uma guia na planilha, onde é possível informar em uma coluna especifica a alteração de estoque e/ou preço 
   - [ ] Ribbon customizada com a função de chamar a atualização, puxar lista de anuncios
 
-- [ ] 
+- [ ] Pedra - Papel - Tesoura
+  - [ ] Desenvolver com GUI
+  - [ ] Criar um método pra armazenar/limpar o histórico (perfil)
+  - [ ] Rodar como um exe  
