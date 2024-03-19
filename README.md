@@ -12,3 +12,7 @@
   - [ ] Desenvolver com GUI
   - [ ] Criar um método pra armazenar/limpar o histórico (perfil)
   - [ ] Rodar como um exe  
+
+- [ ] Gestor de finanças pessoais
+
+- [ ] "Limpador" da pasta Downloads do windows 
