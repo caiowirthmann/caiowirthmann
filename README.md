@@ -19,6 +19,7 @@
 - [ ] "Limpador" da pasta Downloads do windows
 
 - [ ] Bot de Whatsapp/Telegram
+  - [ ] Estudar pywhatkit 
   - [ ] Enviar mensagem para numeros em uma lista
   - [ ] Enviar orçamentos com parametros especificos
   - [ ] Inputs, retornos e opções são em CLI
