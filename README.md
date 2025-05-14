@@ -10,6 +10,8 @@ Se algo aqui te ajudou, já valeu.
 - [market2csv](https://github.com/caiowirthmann/market2csv): scraper open source e gratuíto para marketplaces (Mercado Livre, Shopee, Amazon, Magazine Luiza, e outros)
 
 
-contato:  
-email: caiowirthmann@gmail.com  
-telegram: [@caiowp](https://t.me/caiowp)
+## 📬 Contato
+
+- Discord: [musaaaa4](https://discord.com/users/279083512638734336)
+- email: caiowirthmann@gmail.com  
+- telegram: [@caiowp](https://t.me/caiowp)
